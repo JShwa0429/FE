@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 48px;
+    background-color: white;
+    color: #81c8ee;
+    border-bottom: 1px solid black;
+    font-size: 1rem;
+    margin: auto;
+}
+
+.nav-menu {
+    justify-content: space-between;
+    width: auto;
+    font-size: 1vw;
+    text-decoration: none;
+}
